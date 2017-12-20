@@ -1,5 +1,6 @@
 # solution_python_tasks
 - Решения заданий по языку python для обучения с сайта www.pyobjects.ru (Yury Yurevich)
+- Задачи на языке Python для обучения и собеседований.
 - ИСТОЧНИК:  http://pyobject.ru/blog/2010/02/04/python-quiz/ (доступ 08.05.2017)
 
 
